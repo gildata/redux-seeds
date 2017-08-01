@@ -1,8 +1,3 @@
-# redux-official-demo
+# redux-react-all-in-one
 
-
-```jsx
-    
-// todo
-
-```
+> E:\github\redux-react-all-in-one\redux-react
